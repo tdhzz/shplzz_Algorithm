@@ -1,0 +1,2 @@
+# shplzz_Algorithm
+Algorithm
